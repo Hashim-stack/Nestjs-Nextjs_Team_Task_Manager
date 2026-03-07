@@ -6,7 +6,6 @@ Users can view assigned tasks, track priorities, and mark tasks as completed.
 
 This project demonstrates **JWT authentication, role-based access control, task management, and dashboard analytics** in a modern full-stack architecture.
 
-
 ---
 
 # Project Overview
